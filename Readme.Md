@@ -93,7 +93,7 @@ Stores environment variables such as database connection strings and port number
 
 ## How to run
 
-1. Clone the repo
+1. Clone the repository https://github.com/devendraSelokar05/Remind-me-later.git
 2. Install dependencies: `npm install`
 3. Create `.env` with necessary variables
 4. Start the server: `npm start or dev` or `node index.js`
